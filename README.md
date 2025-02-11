@@ -35,7 +35,8 @@ Passionate about building scalable web applications and contributing to open-sou
 
 ## 📝 Latest Blog Posts
 
-<!-- Add your Medium RSS feed here when available -->
+[DevOps 101: Part 1](https://dev.to/himanshu_bhatt/devops-101-part-1-3kf1)
+
 
 
 ## 🤝 Connect with Me
