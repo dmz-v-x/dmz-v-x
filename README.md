@@ -35,6 +35,8 @@ Passionate about building scalable web applications and contributing to open-sou
 
 ## 📝 Latest Blog Posts
 
+[Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
+
 [Networking 101: Part 5](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
 
 [Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
