@@ -21,16 +21,6 @@ Passionate about building scalable web applications and contributing to open-sou
 
 
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmz-v-x&layout=compact&theme=radical)](https://github.com/dmz-v-x)
-
-## 🔥 Recent Projects
-
-
-
-## 🌱 Open Source Contributions
-
 
 
 ## 🤝 Connect with Me
