@@ -33,32 +33,6 @@ Passionate about building scalable web applications and contributing to open-sou
 
 
 
-## 📝 Latest Blog Posts
-
-[Networking 101: Part 6](https://dev.to/himanshu_bhatt/networking-101-part-6-3mmk)
-
-[Networking 101: Part 5](https://dev.to/himanshu_bhatt/networking-101-part-5-3dhc)
-
-[Networking 101: Part 4](https://dev.to/himanshu_bhatt/networking-101-part-4-3c8l)
-
-[Networking 101: Part 3](https://dev.to/himanshu_bhatt/networking-101-part-3-356h)
-
-[Networking 101: Part 2](https://dev.to/himanshu_bhatt/networking-101-part-2-34f6)
-
-[Networking 101: Part 1](https://dev.to/himanshu_bhatt/networking-101-part-1-1222)
-
-[DevOps 101: Part 5](https://dev.to/himanshu_bhatt/devops-101-part-5-9m8)
-
-[DevOps 101: Part 4](https://dev.to/himanshu_bhatt/devops-101-part-4-4pp2)
-
-[DevOps 101: Part 3](https://dev.to/himanshu_bhatt/devops-101-part-3-401k)
-
-[DevOps 101: Part 2](https://dev.to/himanshu_bhatt/devops-101-part-2-1fma)
-
-[DevOps 101: Part 1](https://dev.to/himanshu_bhatt/devops-101-part-1-3kf1)
-
-
-
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -68,7 +42,7 @@ Passionate about building scalable web applications and contributing to open-sou
   <a href="www.linkedin.com/in/himanshu-bhatt07" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://dev.to/dmz-v-x" target="_blank">
+  <a href="https://dev.to/himanshu_bhatt" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt="Dev.to" width="40" height="40"/>
   </a>
 </p>
