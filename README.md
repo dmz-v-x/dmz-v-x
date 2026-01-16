@@ -29,8 +29,8 @@ Passionate about building scalable web applications and contributing to open-sou
   <a href="mailto:hbhatt034@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="40" height="40"/>
   </a>
-  <a href="www.linkedin.com/in/himanshu-bhatt07" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://x.com/_himanshubhatt1" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://dev.to/himanshu_bhatt" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" alt="Dev.to" width="40" height="40"/>
