@@ -15,7 +15,7 @@ Passionate about building scalable web applications and contributing to open-sou
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,githubactions,linux,bash,ansible,terraform,prometheus,grafana,python,javascript,nodejs,express,html,css,mysql,postgres,react,nextjs,prisma,typescript,rabbitmq,mongodb,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,githubactions,linux,bash,ansible,terraform,prometheus,grafana,python,javascript,nodejs,express,html,css,mysql,postgres,react,nextjs,prisma,typescript,rabbitmq,mongodb,aws,supabase&perline=14" />
   </a>
 </p>
 
